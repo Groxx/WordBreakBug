@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:background="#CCC"
+        android:text="And of course they've had computer problems all day and it's crawling"
+        android:textSize="18sp" />
+
+</FrameLayout>
